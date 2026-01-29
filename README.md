@@ -29,8 +29,8 @@ This project demonstrates my ability to transform raw data into meaningful busin
 ## 📊 Dashboard Insights
 
 ### 🗺️ Sales by Region
-- Central region contributes the highest sales
-- South region shows relatively lower performance
+- The central region contributes the highest sales
+- The South region shows relatively lower performance
 
 ### 📅 Sales Trend by Month
 - Peak sales observed during **October–November**
@@ -59,12 +59,11 @@ This project demonstrates my ability to transform raw data into meaningful busin
 
 ---
 
-Superstore-Sales-Analysis-PowerBI/
-│
-├── Super_Store_Sales_Dashboard.pbix
-├── Superstore_Dataset.xlsx
-├── Dashboard_Screenshot.png
-└── README.md 
+## 📂 Files in This Repository
+
+- `Super_Store_Sales_Dashboard.pbix` – Interactive Power BI dashboard  
+- `Superstore_Dataset.xlsx` – Source dataset used for analysis  
+- `Dashboard_Screenshot.png` – Dashboard preview image  
 
 ---
 
