@@ -59,11 +59,12 @@ This project demonstrates my ability to transform raw data into meaningful busin
 
 ---
 
-## 📂 Files in This Repository
-
-- `Superstore (1).xlsx` – Dataset used for analysis  
-- `Super Store Dashboard.pbix` – Power BI dashboard file  
-- `Dashboard Screenshot.png` – Preview of the dashboard  
+Superstore-Sales-Analysis-PowerBI/
+│
+├── Super_Store_Sales_Dashboard.pbix
+├── Superstore_Dataset.xlsx
+├── Dashboard_Screenshot.png
+└── README.md 
 
 ---
 
@@ -80,7 +81,7 @@ This project demonstrates my ability to transform raw data into meaningful busin
 
 ## 📸 Dashboard Preview
 
-![Super Store Dashboard](./Dashboard%20Screenshot.png)
+![Super Store Dashboard](./Dashboard_Screenshot.png)
 
 ---
 
@@ -94,17 +95,4 @@ This project demonstrates my ability to transform raw data into meaningful busin
 ---
 
 ⭐ If you like this project, feel free to star the repository!
-
-
-
-
-
-Superstore-Sales-Analysis-PowerBI/
-│
-├── Super_Store_Sales_Dashboard.pbix
-├── Superstore_Dataset.xlsx
-├── Dashboard_Screenshot.png
-└── README.md
-
-
 
